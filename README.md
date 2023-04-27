@@ -2,7 +2,6 @@
 
 <h3 align="center"> I am Hugon, my dream that I currently follow is to become software developer. I have studied with a lot of programming languages such as: C#, Python, Java and I would like to develope my caarer in one of these paths. I love learning process, but now I would like to start with work as a team for a company.</h3>
 
-~~The world is flat.~~
 
 - 💵 I am actually under developing my bank managing application, which one day maybe transformed into restful API.
 - 🤖 My another project that I would like to create is API which will be responsible for booking rooms in HotelService
